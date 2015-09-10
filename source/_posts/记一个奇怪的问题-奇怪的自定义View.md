@@ -3,7 +3,7 @@ date: 2015-09-10 22:04:22
 categories: Android
 tags:
 - Android
-- Bugs
+- Bug
 ---
 
 ### 问题描述 ###
